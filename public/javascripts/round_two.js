@@ -11,7 +11,7 @@ namespace("Config", {
     category2: {
       name: "Movie Titles, Refactored",
       clue1: "<div class=\"text-code\">def awesome_movie<br />&nbsp;&nbsp;return \"Batman\"<br />end</div>",
-      clue2: "&lt;div style=\"color:#00FF00;\"&gt;Velvet&lt;/div&gt;",
+      clue2: "&lt;div style=\"color:#0000FF;\"&gt;Velvet&lt;/div&gt;",
       clue3: "X.png<br />X.html<br />X.css",
       clue4: "I18n.t(\"where.am.i\")",
       clue5: "403: Celestial Body"
