@@ -1,0 +1,11 @@
+#! /bin/bash
+
+if [ -d /Library/Fonts/ ];
+then
+  echo "Copying typefaces to /Library/Fonts/"
+  cp $(dirname $0)/../typefaces/* /Library/Fonts/
+else
+  echo "Cannot find system's fonts directory. Looked in /Library/Fonts"
+  echo "Please copy the files from ./typefaces to your system's fonts directory"
+  exit 1
+fi

@@ -4,6 +4,8 @@ private static double jeopardy;
 A javascript implementation of a Jeopardy!&copy;-style game
 
 ### Setting it up
+* Run `./script/install_fonts` in order to display the correct fonts
+  * This was written for OSX, so if you're not on that, just copy the files from `./typefaces` to your system's fonts directory.
 * Replace the clues and categories from these files, as shown below:
   * public/javascripts/round\_one.js
   * public/javascripts/round\_two.js
