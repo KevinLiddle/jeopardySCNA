@@ -1,6 +1,6 @@
 namespace("Config", {
   Final: {
-    category: "Text Editors",
-    clue: "Vim is an open source, freely distributable editor, but users are urged to donate money to help poor children in this nation"
+    category: "Java",
+    clue: "This is a discontinued programming language created by James Gosling in 1991. It later evolved to become Java."
   }
 });
