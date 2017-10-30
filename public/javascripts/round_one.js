@@ -4,9 +4,9 @@ namespace("Config", {
       name: "Most Popular Language According to Github",
       clue1: "Python<br />Ruby<br />PHP",
       clue2: "C<br />C++<br />Objective-C",
-      clue3: "Clojure<br />Haskell<br />Perl",
-      clue4: "Factor<br />Elixir<br />Dart",
-      clue5: "M<br />R<br />D"
+      clue3: "Clojure<br />Haskell<br />Scala",
+      clue4: "F#<br />R<br />D",
+      clue5: "Julia<br />Fortran<br />Dart"
       },
     category2: {
       name: "Famous Bugs",
